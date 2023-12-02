@@ -38,7 +38,8 @@ The project does not contain stats written in mongodb that are given in document
 
 Sleep method can be added to prevent Connection Errors but increases running time.
 
-
+## Python Version
+3.9.12
 
 ## Authors
 
